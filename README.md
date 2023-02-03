@@ -1,24 +1,21 @@
 # Olá, sou o Mathews 😁
 
-### Tenho 27 anos, sou desenvolvedor Front-end graduado em Arquitetura e Urbanismo.
+Tenho 27 anos, sou desenvolvedor Front-end graduado em Arquitetura e Urbanismo.
 
 <br/>
 
-### Criativo e curioso, acredito que o aprendizado continuo é a melhor forma de se manter relevante em um mundo de constante transformação. Sou muito eclético, tenho interesse em diversos assuntos e práticas, entretanto mantenho meu foco principal em aprimorar minhas habilidades como desenvolvedor.
+Criativo e curioso, acredito que o aprendizado continuo é a melhor forma de se manter relevante em um mundo de constante transformação. Sou muito eclético, tenho interesse em diversos assuntos e práticas, entretanto mantenho meu foco principal em aprimorar minhas habilidades como desenvolvedor.
 
 <br/>
 
-### Busco sempre adquirir novos conhecimentos e experiencias, uma das ferramentas que utilizo é a leitura, me interesso por temas como: investimento, autoconhecimento, filosofia e é claro tecnologia! Outra ótima ferramenta é uma boa e velha conversa, formal ou não, uma troca sincera de aprendizado e ensinamento.
-
-<br/>
-
-----
+Busco sempre adquirir novos conhecimentos e experiencias, uma das ferramentas que utilizo é a leitura, me interesso por temas como: investimento, autoconhecimento, filosofia e é claro tecnologia! Outra ótima ferramenta é uma boa e velha conversa, formal ou não, uma troca sincera de aprendizado e ensinamento.
 
 <br/>
 <br/>
+
 <div align="center">
 
-## **Entre em contato!**
+### **Entre em contato!** 📲
 
 <br/>
 
@@ -32,7 +29,7 @@
 <br/>
 <br/>
 
-# Estatísticas && Skill's
+# Estatísticas && Skill's 📊
 
 <br/>
 <br/>
@@ -48,12 +45,14 @@
 
 ![VS](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<br/>
-<br/>
 
-<h1><a href="https://github.com/MathMattar?tab=repositories)" style="color:white">Acesse meus repositório!</a>
+<br/>
+<br/>
+ 
+### [**Acesse meus repósitorios!**](https://github.com/MathMattar?tab=repositories) 📚
